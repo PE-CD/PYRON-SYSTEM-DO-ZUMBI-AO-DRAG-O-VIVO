@@ -69,5 +69,37 @@ git clone https://github.com/PE-CD/PYRON-SYSTEM-DO-ZUMBI-AO-DRAG-O-VIVO.git
 cd PYRON-SYSTEM-DO-ZUMBI-AO-DRAG-O-VIVO
 firefox index.html &
 
+🕹️ CONTROLES
+Tecla	Ação
+Setas/WASD	Mover
+F	Fogo Metal Slug
+H	Hackear
+E	Escalar
+TAB	Modo Autônomo
+📂 ESTRUTURA
+text
+
+├── index.html
+├── style.css
+├── script.js
+├── modulos/
+│   ├── chamas.js
+│   ├── personagem.js
+│   └── inteligencia.js
+└── sprites/
+    └── pyro_sprite.png
+
+🔮 PRÓXIMOS PASSOS
+
+    Integração com IA (ChatGPT/DeepSeek)
+
+    Guardião do CODEVS
+
+    Firewall cibernético
+
+    Phlogistinator com crítico
+
+    Port para Termux (Android)
+
 
 
