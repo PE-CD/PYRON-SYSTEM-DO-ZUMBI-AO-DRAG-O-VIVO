@@ -7,39 +7,39 @@
 
 ---
 
-## 📸 EVOLUÇÃO DO PROJETO
+##  EVOLUÇÃO DO PROJETO
 
-### 🧟 FASE 0: ZUMBI
+###  FASE 0: ZUMBI
 - Retângulo laranja básico
 - Animação de braço procedural
 - Primeiro contato com Canvas API
 
-### 🗿 FASE 1: GÓLEM
+###  FASE 1: GÓLEM
 - Sistema de partículas
 - HUD com vida, energia, XP
 - 7 estados (idle, walk, fire, hack, climb, error, victory)
 - 5 emoções (neutro, feliz, bravo, triste, hacker)
 - Terminal interativo com comandos
 
-### 🤖 FASE 2: AUTÔNOMO
+###  FASE 2: AUTÔNOMO
 - Modo autônomo (TAB)
 - Navegação por waypoints
 - Ações aleatórias
 - Detecção de ociosidade
 
-### 🎨 FASE 3: PIXEL ART
+###  FASE 3: PIXEL ART
 - Sprite do Pyro TF2
 - Fundo transparente (GIMP)
 - Renderização com escala
 - Efeito de respiração
 
-### 🔥 FASE 4: MOTOR SNK
+###  FASE 4: MOTOR SNK
 - Paleta 17 cores Metal Slug
 - Autômato celular de fogo
 - Pulsação rítmica
 - Heat Bloom
 
-### 🧬 FASE 5: MOTOR ULTIMATE
+###  FASE 5: MOTOR ULTIMATE
 - Fusão de 3 motores (Pyron + SNK + Gemini)
 - Gravidade invertida
 - Crescimento parabólico
@@ -48,7 +48,7 @@
 
 ---
 
-## 🎮 TECNOLOGIAS
+##  TECNOLOGIAS
 
 - JavaScript Vanilla
 - Canvas API 2D
@@ -62,7 +62,7 @@
 
 ---
 
-🕹️ CONTROLES
+CONTROLES
 Tecla	Ação
 Setas/WASD	Mover
 F	Fogo Metal Slug
@@ -82,7 +82,7 @@ text
 └── sprites/
     └── pyro_sprite.png
 
-🔮 PRÓXIMOS PASSOS
+ PRÓXIMOS PASSOS
 
     Integração com IA (ChatGPT/DeepSeek)
 
