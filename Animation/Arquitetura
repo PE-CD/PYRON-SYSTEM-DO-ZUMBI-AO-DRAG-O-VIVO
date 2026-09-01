@@ -1,0 +1,41 @@
+                         PYRON SYSTEM
+                           │
+       ┌───────────────────┼───────────────────┐
+       │                   │                   │
+   INTELIGÊNCIA         PERCEPÇÃO           MEMÓRIA
+       │                   │                   │
+       └──────────────┬────┴───────────────────┘
+                      │
+                      ▼
+                DECISION ENGINE
+                      │
+                      ▼
+                 INTENTION
+                      │
+        ┌─────────────┼──────────────┐
+        ▼             ▼              ▼
+     MOVEMENT      SPEECH        INTERACTION
+        │             │              │
+        └─────────────┼──────────────┘
+                      ▼
+                BODY STATE
+                      │
+                      ▼
+             ANIMATION ENGINE
+                      │
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+      BREATHE        WALK          TALK
+        │             │             │
+        ├─────────────┼─────────────┤
+        ▼             ▼             ▼
+       GRAB          RELOAD       outras...
+                      │
+                      ▼
+                  RENDERER
+                      │
+                      ▼
+                    CANVAS
+
+
+             
